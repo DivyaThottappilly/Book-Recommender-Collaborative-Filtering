@@ -18,7 +18,7 @@ The project involves the following key steps:
 
 # How to Use
 To get recommendations for a specific book, use the recommend_book function:
-> **Note:** recommend_book("Your Book Title Here")
+> **recommend_book("Your Book Title Here")** 
 Replace "Your Book Title Here" with the exact title of the book you want recommendations for.
 
 Example Recommendation
