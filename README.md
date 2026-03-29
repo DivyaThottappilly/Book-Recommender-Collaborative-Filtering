@@ -21,11 +21,10 @@ To get recommendations for a specific book, use the recommend_book function:
 > **recommend_book("Your Book Title Here")** 
 Replace "Your Book Title Here" with the exact title of the book you want recommendations for.
 
-*** Example Recommendation
+## Example Recommendation
 For example, if you search for 'Harry Potter and the Chamber of Secrets (Book 2)', the system might recommend:
-
 Harry Potter and the Goblet of Fire (Book 4)
 Harry Potter and the Prisoner of Azkaban (Book 3)
-Harry Potter and the Sorcerer's Stone (Book 1) ***
+Harry Potter and the Sorcerer's Stone (Book 1)
 Exclusive
 The Cradle Will Fall
