@@ -3,6 +3,10 @@ This notebook implements a collaborative filtering-based book recommendation sys
 Collaborative Filtering-Based Book Recommendation System
 This notebook implements a collaborative filtering-based book recommendation system. It leverages user ratings to find books similar to ones a user has enjoyed or is looking for.
 
+# Data 
+Data Acquisition and Preparation: The project starts by loading three datasets: books, users, and ratings. These datasets are then cleaned by renaming columns, selecting relevant features, and merging them into a single dataframe.
+Data Link: https://www.kaggle.com/datasets/ra4u12/bookrecommendation or unzip archive.zip to extract files 
+
 # Project Overview
 The project involves the following key steps:
 
